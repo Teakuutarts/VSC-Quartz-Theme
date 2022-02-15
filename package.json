@@ -1,0 +1,27 @@
+{
+	"name": "av583-quartz-theme",
+	"displayName": "Av583 Quartz Theme",
+	"publisher": "AceSardonyx",
+	"description": "AceQuartz Swag B)",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.17.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TartsNTeacups/VSC-Quartz-Theme"
+	},
+	"icon": "image/icon.PNG",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Quartz",
+				"uiTheme": "vs-dark",
+				"path": "./theme/ace-quartz-color-theme.json"
+			}
+		]
+	},
+}
