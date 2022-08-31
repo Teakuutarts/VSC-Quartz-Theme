@@ -2,9 +2,9 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Language="en-US" Id="2077-theme" Version="1.0.0" Publisher="AceSardonyx"/>
-    <DisplayName>Av583 Rose Quartz Theme</DisplayName>
-    <Description xml:space="preserve">Rose Quartz Based Theme</Description>
-    <Tags>theme,color-theme, quartz</Tags>
+    <DisplayName>DarkroseQuartz Theme</DisplayName>
+    <Description xml:space="preserve">Dark Rose Quartz Based Theme For VSCode</Description>
+    <Tags>theme, color-theme, quartz</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
     <Badges></Badges>
@@ -14,10 +14,10 @@
       <Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
       
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/endormi/vscode-2077-theme" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/endormi/vscode-2077-theme" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/Teakuutarts/VSC-Quartz-Theme" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/Teakuutarts/VSC-Quartz-Theme" />
         
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/endormi/vscode-2077-theme" />
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/Teakuutarts/VSC-Quartz-Theme" />
         
       
       
@@ -29,7 +29,7 @@
       
     </Properties>
     
-    <Icon>extension/image/icon.PNG</Icon>
+    <Icon>./image/icon.png</Icon>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Code"/>

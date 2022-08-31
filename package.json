@@ -1,9 +1,9 @@
 {
-	"name": "av583-quartz-theme",
-	"displayName": "Av583 Quartz Theme",
+	"name": "darkrose-quartz-theme",
+	"displayName": "Ava583 Dark Rose Quartz Theme",
 	"publisher": "AceSardonyx",
-	"description": "AceQuartz Swag B)",
-	"version": "1.0.0",
+	"description": "Based on my personal computer's theme!",
+	"version": "1.0.8",
 	"engines": {
 		"vscode": "^1.17.0"
 	},
@@ -12,9 +12,9 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/TartsNTeacups/VSC-Quartz-Theme"
+		"url": "https://github.com/Teakuutarts/VSC-Quartz-Theme"
 	},
-	"icon": "image/icon.PNG",
+	"icon": "image/icon.png",
 	"contributes": {
 		"themes": [
 			{

@@ -1,3 +1,3 @@
 # VSC-Quartz-Theme
-AceQuartz Color Theme For Visual Studio Code
-This theme pack has a resemblence to the Tarts & Teacups theme!
+Dark Rose Quartz Color Theme For Visual Studio Code
+Simple as that. Yeah, no preview, try it out and see yourself!
